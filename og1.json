@@ -8,12 +8,6 @@
          "id":11,
          "name":"collision",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"collides",
-                 "type":"bool",
-                 "value":true
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":118,
@@ -229,6 +223,16 @@
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":37,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
          "tilewidth":32
         }],
  "tilewidth":32,
