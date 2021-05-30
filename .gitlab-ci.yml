@@ -2,7 +2,7 @@ pages:
   stage: deploy
   script:
     - mkdir public
-    - cp *.json *.png *.mp3 index.html COPYRIGHT public
+    - cp *.json *.png public
     - sed -i
       -e 's/{<jitsiUrl>}/meet.jit.si/g'
       public/*.json
