@@ -2,4 +2,4 @@
 
 Upstream: (https://github.com/Grand-Garage/gg-workadventure)
 
-visit https://play.kraut.world/_/global/jstsmthrgk.gitlab.io/grandgarage-workadv/main.json to play original version.
+visit https://play.aaaaaaaaaaaadventu.re/_/public/grand-garage.github.io/gg-workadventure/main.json to play.
