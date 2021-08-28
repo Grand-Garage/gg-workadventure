@@ -118,6 +118,12 @@
  "nextlayerid":9,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"apiUrl",
+         "type":"string",
+         "value":"{<apiUrl>}"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
