@@ -43,11 +43,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"GG_0_Workshop"
-                }, 
-                {
-                 "name":"jitsiUrl",
-                 "type":"string",
-                 "value":"{<jitsiUrl>}"
                 }],
          "type":"tilelayer",
          "visible":true,
