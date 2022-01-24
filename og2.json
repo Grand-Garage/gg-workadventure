@@ -25,11 +25,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"GG_2_Forum"
-                }, 
-                {
-                 "name":"jitsiUrl",
-                 "type":"string",
-                 "value":"{<jitsiUrl>}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -48,11 +43,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"GG_2_Lounge"
-                }, 
-                {
-                 "name":"jitsiUrl",
-                 "type":"string",
-                 "value":"{<jitsiUrl>}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -71,11 +61,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"GG_2_Workshop"
-                }, 
-                {
-                 "name":"jitsiUrl",
-                 "type":"string",
-                 "value":"{<jitsiUrl>}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -94,11 +79,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"GG_2_CAD"
-                }, 
-                {
-                 "name":"jitsiUrl",
-                 "type":"string",
-                 "value":"{<jitsiUrl>}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -240,12 +220,6 @@
  "nextlayerid":25,
  "nextobjectid":1,
  "orientation":"orthogonal",
- "properties":[
-        {
-         "name":"apiUrl",
-         "type":"string",
-         "value":"{<apiUrl>}"
-        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
