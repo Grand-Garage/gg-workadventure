@@ -25,12 +25,7 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"GG_1_Workshop"
-                }, 
-                {
-                 "name":"jitsiUrl",
-                 "type":"string",
-                 "value":"{<jitsiUrl>}"
-                }],
+                },
          "type":"tilelayer",
          "visible":true,
          "width":120,
@@ -207,12 +202,6 @@
  "nextlayerid":22,
  "nextobjectid":1,
  "orientation":"orthogonal",
- "properties":[
-        {
-         "name":"apiUrl",
-         "type":"string",
-         "value":"{<apiUrl>}"
-        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
