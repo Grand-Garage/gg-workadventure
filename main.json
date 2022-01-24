@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<devlol>\/bahnhof.json#start_bus_kaerntnerstrasse}"
+                 "value":"world:\/\/devlol\/bahnhof.json#start_bus_kaerntnerstrasse"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -118,12 +118,6 @@
  "nextlayerid":9,
  "nextobjectid":1,
  "orientation":"orthogonal",
- "properties":[
-        {
-         "name":"apiUrl",
-         "type":"string",
-         "value":"{<apiUrl>}"
-        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
